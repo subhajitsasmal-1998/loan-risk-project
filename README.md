@@ -19,7 +19,7 @@ Developed an end-to-end Machine Learning system to predict loan repayment probab
 - Real-time prediction using Streamlit app
 
 ## 🌐 Live App
-(Add your Streamlit link here after deployment)
+http://localhost:8502/
 
 ## 💻 GitHub Repository
 This repository contains:
